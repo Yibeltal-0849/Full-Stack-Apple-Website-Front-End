@@ -4,7 +4,7 @@ function Cart() {
   return (
     <div className="row mt-5">
       <div className="mt-5 text-center">
-        <h2>This is Cart Page</h2>
+        <h2>This is Cart Page,only iPhone Page is working</h2>
       </div>
     </div>
   );
