@@ -1,0 +1,21 @@
+Routing concept
+- React Routing is the process of navigating between different pages (or components) in a React application without reloading the page
+
+
+1.BrowserRouter
+-Wraps your app to enable routing
+
+2.Routes
+- Routes is a container for Route components.
+
+3.Route
+-Route defines a path and the component to render.
+
+4.Link 
+Link: Navigates without full page reload.
+
+5.outlet for Nested Routes
+Renders child routes inside a parent route
+
+6.useParams
+Gets dynamic values from the URL.

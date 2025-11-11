@@ -1,0 +1,41 @@
+/* General Styling*/
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+}
+a {
+  color: #06c;
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+}
+.white {
+  color: #fff;
+}
+.black {
+  color: #1d1d1f;
+}
+.grey {
+  color: #86868b;
+}
+.top-50 {
+  margin-top: 50px;
+}
+.top-100 {
+  margin-top: 100px;
+}
+
+/* to create space between two display:flex, when media query is >=768px */
+@media (min-width: 768px) {
+  .col-md-6 {
+    max-width: 49.5%;
+    margin: 0 auto;
+  }
+}
+.container-fluid {
+  padding-inline: 0;
+}

@@ -1,0 +1,19 @@
+/* for mobile without header and footer or from section 1- section 6 */
+/* first section */
+
+.first-section {
+  background-color: #fafafa;
+}
+.links-wrapper ul {
+  justify-content: center;
+}
+.links-wrapper ul li a:hover {
+  color: black;
+}
+.links-wrapper ul li a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  /* \f105 or  this font style for angle right  */
+  content: "\f105";
+  padding-left: 10px;
+}

@@ -1,0 +1,45 @@
+[
+  {
+    Product_id: 1,
+    product_name: "iPhone SE",
+    product_url: "https://www.apple.com/in/iphone-se/",
+    Description_id: 1,
+    Product_brief_description: "Lots to love. Less to spend",
+    Product_description:
+      "iPhone SE packs our most powerful chip into our most popular size at our most affordable price. It’s just what you’ve been waiting for.",
+    Product_img: "https://www.apple.com/shop/buy-iphone/iphonese",
+    Product_link: "https://www.apple.com/in/iphone-se/",
+    Price_id: 1,
+    Starting_price: "$399",
+    Price_range: "From $9.$9.54/mo. or $229 with trade-in.",
+  },
+  {
+    Product_id: 2,
+    product_name: "iPhone 11",
+    product_url: "https://www.apple.com/in/iphone-11/",
+    Description_id: 2,
+    Product_brief_description: "Lots to love. Less to spend.",
+    Product_description:
+      "You can either pay for your new iPhone in full or pay monthly with carrier financing, iPhone Payments, the iPhone Upgrade Program, and now Apple Card Monthly Installments. Your carrier service plan will be charged separately. Just choose the option that works for you.",
+    Product_img: "https://www.apple.com/shop/buy-iphone/iphone-11",
+    Product_link: "https://www.apple.com/in/iphone-11/",
+    Price_id: 2,
+    Starting_price: "$449",
+    Price_range: "From $18.70/mo. or $449 with trade-in.",
+  },
+  {
+    Product_id: 3,
+    product_name: "iPhone 11 Pro",
+    product_url: "https://support.apple.com/en-in/111879",
+    Description_id: 3,
+    Product_brief_description:
+      " \r\n \t\r\nPro cameras. Pro display. Pro performance.",
+    Product_description:
+      "A transformative triple‑camera system that adds tons of capability without complexity. An unprecedented leap in battery life. And a mind‑blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro.",
+    Product_img: "https://www.apple.com/shop/buy-iphone/iphone-11-pro",
+    Product_link: "https://support.apple.com/en-in/111879",
+    Price_id: 3,
+    Starting_price: "$679",
+    Price_range: "   \t From $28.29/mo. or $679 with trade-in.",
+  },
+];

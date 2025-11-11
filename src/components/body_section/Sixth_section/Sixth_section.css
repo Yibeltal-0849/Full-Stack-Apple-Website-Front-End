@@ -1,0 +1,17 @@
+.sixth-section .left-side-wrapper,
+.sixth-section .right-side-wrapper {
+  background-image: url(../../../commonResource/images/home/air-pods.jpg);
+  height: 580px;
+  background-position: bottom;
+  background-size: initial;
+  background-repeat: no-repeat;
+}
+/* sixth left side */
+.sixth-section .left-side-wrapper {
+  background-image: url(../../../commonResource/images/home/macbook-pro.jpg);
+  background-color: #fafafa;
+}
+/* right side  */
+.sixth-section .right-side-wrapper {
+  background-image: url(../../../commonResource/images/home/new-ipad.jpg);
+}

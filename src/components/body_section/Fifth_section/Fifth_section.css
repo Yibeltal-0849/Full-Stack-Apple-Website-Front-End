@@ -1,0 +1,33 @@
+.fith-section .left-side-wrapper {
+  height: 580px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+/* fith left side section */
+.fith-section .left-side-wrapper {
+  background-image: url(../../../commonResource/images/home/apple-tv-background.jpg);
+}
+.film-notification {
+  margin-top: 180px;
+}
+.film-notification a:after {
+  font-family: "fontawesome";
+  /* f144 is circle play */
+  content: "\f144";
+  padding: 12px;
+}
+/* common property for fith and sixth */
+.fith-section .right-side-wrapper {
+  background-image: url(../../../commonResource/images/home/air-pods.jpg);
+  height: 580px;
+  background-position: bottom;
+  background-size: initial;
+  background-repeat: no-repeat;
+  background-color: #000;
+}
+/* fith right side wrwpper  */
+/* .fith-section .right-side-wrapper {
+  background-image: url(../../commonResource/images/home/air-pods.jpg);
+  
+} */

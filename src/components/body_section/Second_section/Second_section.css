@@ -1,0 +1,12 @@
+/* second section */
+.price {
+  color: #86868b;
+}
+.second-section {
+  height: 580px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url(../../../commonResource/images/home/iphone11-pro-bg.jpg);
+  color: #fff;
+}

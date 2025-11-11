@@ -1,0 +1,24 @@
+ create Folder  Full-Stack-Apple-Website in your your Week-7 folder
+ On Server-Side
+1.instal cross over resource sharing(cors), npm i cross 
+
+On Server_Side
+2.install react-router-DOM, npm i react-router or react-router-dom 
+
+      On Client_Side
+3.install bootstrap , npm instal bootstrap 
+download bootstrap version 
+ 
+4.import BrowserRouter and wrap your main.jsx file
+
+5.create jsx file for all header link
+
+6.import Routes and Route 
+
+7.Wrap your total Route using Routes
+
+8.replace header ancor link (<a>....</a>) by link and change href to "to" 
+
+9.import and wrap body or main using Outlet on from ResourceSharing file 
+    
+10.warp all all route using route and pass / for path and use element ResourceSharing 

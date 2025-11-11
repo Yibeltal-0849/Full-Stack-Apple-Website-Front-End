@@ -1,0 +1,18 @@
+/* for back background image */
+
+.fourth-section .left-side-wrapper,
+.fourth-section .right-side-wrapper {
+  height: 580px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+/* fourth left-side section */
+.fourth-section .left-side-wrapper {
+  background-image: url(../../../commonResource/images/home/watch-series-5.jpg);
+}
+
+/* fourth right side wrapper */
+.fourth-section .right-side-wrapper {
+  background-image: url(../../../commonResource/images/home/apple-card.jpg);
+}

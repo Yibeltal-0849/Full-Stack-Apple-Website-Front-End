@@ -1,0 +1,8 @@
+.third-section {
+  height: 580px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url(../../../commonResource/images/home/iphone11-bg.jpg);
+  background-color: #f8f9fa;
+}
